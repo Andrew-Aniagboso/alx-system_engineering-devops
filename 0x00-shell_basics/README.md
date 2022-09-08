@@ -32,3 +32,5 @@ a script that html document"
 a sript that moves all file beginning with an uppercase
 
 a script that clean emacs
+
+a script that makes the directory and welcomto to school
