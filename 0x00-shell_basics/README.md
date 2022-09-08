@@ -26,3 +26,6 @@ a script that that lists all files (even ones with names beginning with a period
 a script Write a script that prints the type of the file named iamafile
 
 a script Create a symbolic link  binls"
+
+a script that html document"
+
