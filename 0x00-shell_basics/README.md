@@ -12,3 +12,12 @@ a script that display current directory contents, including hidden files (starti
 
 
 a scipt that dislplays current directory contents with user and group id
+
+a scrit that creates a directory named myfirstdirectory in the tmp directory
+
+a script that move a file betty from tmp to tmp/myfirstdirectory
+
+a script that deletes the file betty
+
+a file that deletes the directory myfirstdirectory
+
