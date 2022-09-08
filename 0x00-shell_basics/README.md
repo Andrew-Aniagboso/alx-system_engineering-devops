@@ -30,3 +30,5 @@ a script Create a symbolic link  binls"
 a script that html document"
 
 a sript that moves all file beginning with an uppercase
+
+a script that clean emacs
