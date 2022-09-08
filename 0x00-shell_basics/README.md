@@ -13,11 +13,12 @@ a script that display current directory contents, including hidden files (starti
 
 a scipt that dislplays current directory contents with user and group id
 
-a scrit that creates a directory named myfirstdirectory in the tmp directory
+a script that creates a directory named myfirstdirectory in the tmp directory
 
 a script that move a file betty from tmp to tmp/myfirstdirectory
 
 a script that deletes the file betty
 
-a file that deletes the directory myfirstdirectory
+a script  that deletes the directory myfirstdirectory
 
+a script that that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
