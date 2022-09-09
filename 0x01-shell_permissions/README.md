@@ -11,3 +11,5 @@ script that creates an empty file hello
 script that adds execute permission to hello
 
 a script that creates multiple permissions to hello
+
+a script that adds multiple execution permission to hello
