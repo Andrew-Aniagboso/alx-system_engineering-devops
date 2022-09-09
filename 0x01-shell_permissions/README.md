@@ -23,3 +23,5 @@ a script that sets the mode of file hello to file olleh"
 a script that adds execution to all sub directories
 
 a scrilt that creates a directory mydir with permission 751
+
+a script that changes the group owner to school
