@@ -19,3 +19,5 @@ a script that sets permission to the file hello
 a script that sets the mode of the file
 
 a script that sets the mode of file hello to file olleh"
+
+a script that adds execution to all sub directories
