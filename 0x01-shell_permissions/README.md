@@ -15,3 +15,5 @@ a script that creates multiple permissions to hello
 a script that adds multiple execution permission to hello
 
 a script that sets permission to the file hello
+
+a script that sets the mode of the file
